@@ -1,8 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <title>my mtg commanders</title>
-</head>
+
 
 <link rel="stylesheet" href="styles/styles.css">
 
