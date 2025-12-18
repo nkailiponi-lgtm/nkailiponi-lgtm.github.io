@@ -88,7 +88,7 @@
     </p>
 
     <p>
-      <a href="newpage.html">Back to my professional pages</a>
+      <a href="nkailiponi-lgtm3.github.io">Back to my professional pages</a>
       <a href="game.html">Back to my professional pages</a>
     </p>
 
